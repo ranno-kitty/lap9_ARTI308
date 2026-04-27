@@ -1,0 +1,1 @@
+What performed better the random forest or the decision tree? The Random Forest model performed better than the Decision Tree because it achieved higher accuracy and generalized to new data more effectively. It also reduced the overfitting that appeared in the single Decision Tree.
